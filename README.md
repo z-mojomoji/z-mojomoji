@@ -28,9 +28,8 @@ const moji = {
 
 ### 💼 Journey
 
-- 🏢 **JWPL Technology** — Frontend Engineering on multi-brand CMS and payment/loyalty integrations
 - 🎨 **Mackay Goodwin** — Frontend / UX Engineering
-- 🍔 **Jollibee Group** — Frontend Development
+- 🍔 **Jollibee Group**  — Frontend Engineering on multi-brand CMS and payment/loyalty integrations
 - ✈️ **Agoda** — Software Engineering
 - 🤝 **Coding Allies** — Frontend Volunteer
 
