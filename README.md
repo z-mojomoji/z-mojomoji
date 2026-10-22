@@ -10,10 +10,6 @@
   I turn ideas and designs into polished, accessible, and performant web experiences.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=z-mojomoji&style=flat-square&color=38BDF8&label=profile+views" alt="profile views" />
-</p>
-
 ---
 
 With 9+ years in software engineering, I've shipped across product teams and production systems, from **Agoda** to **Jollibee Group**. I started out in multimedia design, so I care as much about how something feels as how it's built.
@@ -61,6 +57,7 @@ const moji = {
 - 🎙️ **YouTube → Hermes** — Whisper-powered transcript pipeline with playlist resume and Qdrant ingestion
 - 📈 **IBKR bot** — an AI-assisted paper-trading bot built with Python and Claude Code
 
+<!-- GitHub stats: hidden for now, remove these comment markers to re-enable
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -71,6 +68,7 @@ const moji = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=z-mojomoji&theme=tokyonight&hide_border=true" />
 </p>
+-->
 
 ### 🤝 Let's Connect
 
